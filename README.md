@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Malentha
+- 👋 Hi, I’m merve 
 - 👀 I’m interested in AI and data sciencist
 - 🌱 I’m currently learning python and R programing
 - 💞️ I’m looking to collaborate on get experince about my study
