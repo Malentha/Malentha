@@ -1,5 +1,5 @@
 - 👋 Hi, I’m merve 
-- 👀 I’m interested in AI and data sciencist
+- 👀 I’m interested in AI and microcontrollers and hardware devices with python
 - 🌱 I’m currently learning python and R programing
 - 💞️ I’m looking to collaborate on get experince about my study
 - 📫 How to reach me --> here is my mail:zeymervedemir@gmail.com 
