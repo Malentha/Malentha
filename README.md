@@ -1,6 +1,6 @@
 - 👋 Hi, I’m merve 
-- 👀 I’m interested in AI and system & network engıneering
-- 🌱 I’m currently learning python data science and machine learnıng also networking for CCNA
+- 👀 I am in the way of changing carieer way with java and flutter for hobby
+- 🌱 I’m currently studying java 
 - 💞️ I’m looking to collaborate on get experince about my study
 - 📫 How to reach me --> here is my mail:zeymervedemir@gmail.com
 - 
